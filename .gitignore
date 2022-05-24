@@ -1,0 +1,7 @@
+# HTML, CSS파일만 관리
+
+node_modules
+assets
+images
+js
+*.json
